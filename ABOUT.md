@@ -1,4 +1,4 @@
-<img align="right" alt="img" src="https://github.com/terribleloser-Vivek/profile_readme/blob/main/profile.PNG" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Suraj-Kumar0/profile_readme/blob/main/profile.PNG" width="50%" height="auto" />
 
 ### Hi there 👋 
 # **I am SURAJ KUMAR!**
